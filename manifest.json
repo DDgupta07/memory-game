@@ -1,0 +1,20 @@
+{
+  "name": "Memory Game",
+  "short_name": "Memory Game",
+  "start_url": ".",
+  "background_color": "#fac83d",
+  "theme_color": "#fac83d",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "memory.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "memory.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
